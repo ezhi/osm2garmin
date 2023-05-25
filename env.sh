@@ -1,0 +1,4 @@
+ROOT_DIR=`pwd`
+STYLE_DIR=$ROOT_DIR/style
+DATA_DIR=$ROOT_DIR/data
+BUILD_DIR=$ROOT_DIR/build
